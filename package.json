@@ -1,0 +1,20 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "A command line application designed to use input information about employees to generate an html page which displays information about team members.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Seanalan Hool",
+  "license": "ISC"
+}
